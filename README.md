@@ -1,4 +1,4 @@
-Unemployed fresh graduate game development student from Asia Pacific University (APU).
+Unemployed fresh graduate game development student.
 
 <ins>**GAME DEVELOPMENT**</ins>
 
