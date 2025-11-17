@@ -1,4 +1,4 @@
-Unemployed fresh graduate Computer Games Development from Asia Pacific University.
+Fresh graduate Computer Games Development from Asia Pacific University.
 
 While my background is rooted in games development, I am currently expanding into full-stack web development. I have foundational experience with HTML, CSS, JavaScript, PHP, MySQL and Bootstrap. I am now expanding my skills in PostgreSQL, Next.js, TypeScript and Tailwind CSS while searching for jobs.
 
